@@ -1,5 +1,5 @@
-# brain-train
-Simple html-css website. My first website :)
+# Survival shooter game developed with Unity 5
+
 
 ## Survival Shooter
 ![Scalding Logo](https://github.com/milano95a/survival-shooter/blob/master/snapshots/1.png)
